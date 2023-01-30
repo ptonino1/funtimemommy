@@ -1,0 +1,16 @@
+{
+  "name": "funtimemommy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node funtimemommy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2",
+    "tmi.js": "^1.8.5"
+  }
+}
